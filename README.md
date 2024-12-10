@@ -1,4 +1,5 @@
-# Data Analysis and Machine Learning Project
+# Freelancing Club
+ML Task Round
 
 This project demonstrates data analysis and machine learning techniques on a cleaned dataset. The work is divided into two main tasks:
 1. **K-Means Clustering and Statistical Analysis**
